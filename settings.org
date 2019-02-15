@@ -1,4 +1,4 @@
-* World of the Travelers
+* World of the Travelers - Chosen
 ** World
 *** All Player Characters bear the "Mark of the Traveler"
 *** Travelers cannot be beyond 300' away from their Orb
@@ -17,3 +17,7 @@
 *** Widest variety of play
 *** More adaptive story and campaign
 *** Easy to handle inconsistent players
+
+* Links
+[[./story.org][Story So Far]]
+[[./player-characters.org][Player Characters]]
